@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.immutables:testing:2.7.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.immutables/testing/2.7.5/34a39d011b2f82bb8f354defad2506c6c29ead06/testing-2.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.immutables/testing/2.7.5/564da150b2a60dce3b62d016592102bddb3cc5de/testing-2.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
